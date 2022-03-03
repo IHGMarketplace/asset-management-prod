@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="15px" viewBox="0 0 16 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Grid Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="TVs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IHG-Telvisions-PLP-Compare-One-Product-selected" transform="translate(-284.000000, -591.000000)" fill="#D96932">
+            <g id="sort-by,-grid,-list" transform="translate(284.000000, 583.000000)">
+                <g id="sort-by,-product-view">
+                    <g id="grid" transform="translate(0.000000, 5.000000)">
+                        <g id="Grid-Icon" transform="translate(0.000000, 3.000000)">
+                            <rect id="Rectangle-11" x="0.552734375" y="0" width="5.72120949" height="5.72120949"></rect>
+                            <rect id="Rectangle-11-Copy-2" x="0.552734375" y="9.15393519" width="5.72120949" height="5.72120949"></rect>
+                            <rect id="Rectangle-11-Copy" x="10.2787905" y="0" width="5.72120949" height="5.72120949"></rect>
+                            <rect id="Rectangle-11-Copy-3" x="10.2787905" y="9.15393519" width="5.72120949" height="5.72120949"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

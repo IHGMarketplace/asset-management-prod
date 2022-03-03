@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="12px" viewBox="0 0 18 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>list icon/active</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="TVs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IHG-Telvisions-PLP-Compare-One-Product-selected" transform="translate(-355.000000, -592.000000)">
+            <g id="sort-by,-grid,-list" transform="translate(284.000000, 583.000000)">
+                <g id="sort-by,-product-view">
+                    <g id="list" transform="translate(71.000000, 5.000000)">
+                        <g id="list-icon/active" transform="translate(0.000000, 4.000000)">
+                            <g id="list-icon-copy">
+                                <path d="M8.67132205,0.5 L17.426608,0.5" id="Line" stroke="#D96932" stroke-linecap="square"></path>
+                                <path d="M8.67132205,8.5 L17.426608,8.5" id="Line-Copy-8" stroke="#D96932" stroke-linecap="square"></path>
+                                <path d="M8.67132205,3.5 L17.426608,3.5" id="Line-Copy-7" stroke="#D96932" stroke-linecap="square"></path>
+                                <path d="M8.67132205,11.5 L17.426608,11.5" id="Line-Copy-10" stroke="#D96932" stroke-linecap="square"></path>
+                                <rect id="Rectangle-11-Copy-5" fill="#D96932" x="0" y="0" width="5" height="5"></rect>
+                                <rect id="Rectangle-11-Copy-6" fill="#D96932" x="0" y="7" width="5" height="5"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
